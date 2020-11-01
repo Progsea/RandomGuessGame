@@ -18,5 +18,6 @@ if r == rInp:
 else:
     print("Aww.. you lost!")
     print("The random number was " + str(r))
+    print("Press enter to end.")
     input()
     exit()
